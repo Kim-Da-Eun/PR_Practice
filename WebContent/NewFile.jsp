@@ -11,6 +11,7 @@
 <script>
 $("#btn").on("click",function(){
 	location.href = 'index.jsp';
+	// gg
 })
 </script>
 </body>
