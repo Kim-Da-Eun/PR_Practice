@@ -93,8 +93,11 @@ local.properties
 *.tar.gz
 *.rar
 *.MF
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 87a01739773dfda446c3d26321a125fa76446455
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
