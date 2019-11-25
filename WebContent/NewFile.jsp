@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-dddd
+<button id =btn>이동</button>
+<script>
+$("#btn").on("click",function(){
+	location.href = 'index.jsp';
+})
+</script>
 </body>
 </html>
